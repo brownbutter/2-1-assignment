@@ -1,0 +1,28 @@
+.background {
+  background-color: aqua;
+  margin: 0;
+  padding: 10rem;
+  height: 100vh;
+  width: 100vw;
+}
+.heading {
+  color: black;
+  padding: 1.5rem;
+  text-align: center;
+}
+.bodyText {
+  color: blue;
+  background-color: yellow;
+  padding: 20px;
+  border: 5px solid fuchsia;
+}
+
+.profileContainer {
+  color: white;
+  background-color: blue;
+  padding: 5px;
+  margin: 5px;
+  height: auto;
+  width: auto;
+  align-items: center;
+}
